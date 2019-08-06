@@ -9,12 +9,12 @@ from ibm_watson import LanguageTranslatorV3
 
 language_translator = LanguageTranslatorV3(
     version='2018-05-31',
-    iam_apikey='TfhqK72GPR7RvfRT10VcCF19lNRH8jD-KJCmzdW842e1',
+    iam_apikey='z5SvPcu3706QFco8QU90EPqGiFwFWI5mRRe_aX9AksdK',
     url='https://gateway.watsonplatform.net/language-translator/api')
 
 service = ToneAnalyzerV3(
     version='2017-09-26',
-    iam_apikey='vrDSKI6_jK9iDtvl755Z9ZtDhvRlYtMzRkskAO0XJVS7',
+    iam_apikey='uiNUiC1hfIulfU-_mP8YftWtVBy5gFFedw5vi9VpirDL',
     url='https://gateway.watsonplatform.net/tone-analyzer/api')
 
 
